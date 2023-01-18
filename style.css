@@ -1,0 +1,17 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+body {
+  background-color: red;
+}
+
+.pokemon-list {
+  display: flex;
+  margin-left: -1rem;
+}
+.pokemon-list-item {
+  flex: 1 1 0.5;
+  min-width: 200px;
+}
